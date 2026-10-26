@@ -4,7 +4,7 @@
 
 # 🏢 Awesome IT Service Office (ITSM)
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Office?style=flat-square&color=gold" alt="GitHub stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IT-Service-Office?style=flat-square&color=blue" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-IT-Service-Office?style=flat-square&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-IT-Service-Office?style=flat-square&color=blue" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-IT-Service-Office/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A definitive, community-curated directory of top-tier Enterprise SaaS platforms and Open-Source software for IT Service Management (ITSM), ITIL v4 processes, Help Desks, Configuration Management Databases (CMDB), and Self-Service Portals.**
 
@@ -57,69 +57,69 @@ Below is the curated selection of market-leading SaaS IT Service Office suites, 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top self-hosted, community-driven IT Service Management, ITIL Service Desk, and Asset Management systems. Repositories are sorted in descending order by **GitHub Star Count**, with direct links to each project's stargazers community.
+Explore the top self-hosted, community-driven IT Service Management, ITIL Service Desk, and Asset Management systems. Repositories are sorted in descending order by **GitHub Stars_Count**, with direct links to each project's stargazers community.
 
-1. **[UVdesk Community Skeleton](https://github.com/uvdesk/community-skeleton)** [![GitHub stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
+1. **[UVdesk Community Skeleton](https://github.com/uvdesk/community-skeleton)** [![GitHub_Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers)  
    *Technology: PHP / Symfony / MySQL*  
    Enterprise-grade open-source helpdesk and customer ticketing system with multi-channel support (email, web forms, API), automated workflow engines, custom fields, and extensive third-party plugin modularity.
 
-2. **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
+2. **[Snipe-IT](https://github.com/grokability/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/grokability/snipe-it?style=social&color=white)](https://github.com/grokability/snipe-it/stargazers)  
    *Technology: PHP / Laravel / MySQL*  
    The gold standard open-source IT asset management (ITAM) and CMDB system essential for IT service offices. Enables tracking of hardware inventory, software licenses, digital accessories, depreciation schedules, and user check-ins/outs with QR barcode scanning and a RESTful API.
 
-3. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+3. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
    *Technology: PHP / MySQL / JavaScript*  
    Full-spectrum open-source ITIL Service Desk and asset management suite. Features a comprehensive CMDB, incident/problem/change tracking, SLA escalations, financial contract tracking, data center infrastructure management (DCIM), and a modular plugin ecosystem.
 
-4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+4. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
    *Technology: Ruby on Rails / PostgreSQL / Elasticsearch*  
    High-performance, modern open-source help desk and customer service system featuring omnichannel ticket aggregation (email, phone, chat, social media), real-time ticket updates, full-text search via Elasticsearch, REST APIs, and granular role permissions.
 
-5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
+5. **[FreeScout](https://github.com/freescout-help-desk/freescout)** [![GitHub_Stars](https://img.shields.io/github/stars/freescout-help-desk/freescout?style=social&color=white)](https://github.com/freescout-help-desk/freescout/stargazers)  
    *Technology: PHP / Laravel / MySQL*  
    Lightweight, self-hosted omnichannel helpdesk and shared mailbox platform built as an open-source alternative to Help Scout and Zendesk, featuring collision detection, satisfaction ratings, LDAP/SAML integration, and community AI integration modules.
 
-6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+6. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
    *Technology: PHP / MySQL*  
    Battle-tested open-source support ticketing platform with custom forms and fields, rich HTML auto-responders, ticket routing filters, SLA management, and an integrated customer self-service web portal.
 
-7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
+7. **[Frappe Helpdesk](https://github.com/frappe/helpdesk)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/helpdesk?style=social&color=white)](https://github.com/frappe/helpdesk/stargazers)  
    *Technology: Python / Frappe / Vue.js*  
    Sleek, reactive customer support and service desk software built on the Frappe framework with real-time assignment, automated SLA escalation policies, knowledge base authoring, and native ERPNext integration.
 
-8. **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)  
+8. **[Peppermint](https://github.com/Peppermint-Lab/peppermint)** [![GitHub_Stars](https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=social&color=white)](https://github.com/Peppermint-Lab/peppermint/stargazers)  
    *Technology: Node.js / TypeScript / React / Prisma*  
    Modern, lightweight open-source issue management and IT service ticketing application designed as an agile alternative to Jira Service Management and Zendesk, featuring markdown support, real-time collaboration, and fast containerized deployment.
 
-9. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
+9. **[Helpy](https://github.com/helpyio/helpy)** [![GitHub_Stars](https://img.shields.io/github/stars/helpyio/helpy?style=social&color=white)](https://github.com/helpyio/helpy/stargazers)  
    *Technology: Ruby on Rails / PostgreSQL*  
    Modern, mobile-first open-source help desk and customer engagement platform offering multi-channel ticketing, multi-language knowledge base documentation, and community self-service forums.
 
-10. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+10. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
     *Technology: Node.js / MongoDB / React*  
     Fast, real-time open-source help desk and service desk software built with WebSockets for instant ticket status synchronization, SLA management, custom ticket types, and visual analytics reporting.
 
-11. **[iTop](https://github.com/Combodo/iTop)** [![GitHub stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+11. **[iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
     *Technology: PHP / MySQL / Web Services*  
     Fully ITIL-compliant, web-based IT service management platform featuring an adaptable CMDB, incident and service request management, change management, SLA definitions, and graphical infrastructure impact analysis.
 
-12. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+12. **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
     *Technology: Perl / PostgreSQL / MySQL*  
     Enterprise-grade open-source issue tracking and workflow management system powering critical NOCs, universities, and government IT service desks worldwide with industrial email parsing and PGP/GPG encryption.
 
-13. **[Znuny](https://github.com/znuny/Znuny)** [![GitHub stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+13. **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
     *Technology: Perl / JavaScript / PostgreSQL / MariaDB*  
     Long-term enterprise fork of the renowned OTRS community edition; provides rock-solid web-based ticketing, customer service workflows, ITIL processes, and high customizability for IT service delivery.
 
-14. **[bk-itsm (BlueKing ITSM)](https://github.com/TencentBlueKing/bk-itsm)** [![GitHub stars](https://img.shields.io/github/stars/TencentBlueKing/bk-itsm?style=social&color=white)](https://github.com/TencentBlueKing/bk-itsm/stargazers)  
+14. **[bk-itsm (BlueKing ITSM)](https://github.com/TencentBlueKing/bk-itsm)** [![GitHub_Stars](https://img.shields.io/github/stars/TencentBlueKing/bk-itsm?style=social&color=white)](https://github.com/TencentBlueKing/bk-itsm/stargazers)  
     *Technology: Python / Django / Vue*  
     Enterprise IT service process management framework from Tencent BlueKing, featuring visual workflow modeling, automated execution pipelines, and tight integration with CMDB and cloud orchestration systems.
 
-15. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
+15. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub_Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
     *Technology: Go / Svelte / SQLite*  
     Lightweight, data-ownership focused ITSM tool featuring keyboard-driven command palette (⌘K/Ctrl-K), multi-technician task involvement, Microsoft 365 calendar sync, and optional BYO AI ticket summaries.
 
-16. **[NeatLogic ITOM](https://github.com/neatlogic/neatlogic-itom-all)** [![GitHub stars](https://img.shields.io/github/stars/neatlogic/neatlogic-itom-all?style=social&color=white)](https://github.com/neatlogic/neatlogic-itom-all/stargazers)  
+16. **[NeatLogic ITOM](https://github.com/neatlogic/neatlogic-itom-all)** [![GitHub_Stars](https://img.shields.io/github/stars/neatlogic/neatlogic-itom-all?style=social&color=white)](https://github.com/neatlogic/neatlogic-itom-all/stargazers)  
     *Technology: Java / Spring Boot / Vue*  
     Progressive open-source IT Operations Management (ITOM) platform converging ITSM workflows, automated CMDB discovery, automated inspection, continuous deployment, and knowledge management.
 
@@ -144,7 +144,7 @@ Contributions are warmly welcomed! Help keep this repository the premier guide f
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-service-desk`).
 3. ✍️ **Add or update entries** in `README.md` following the existing format:
-   - Include: exact product name, official URL, pricing structure, free tier/trial limits, and company size/star badge.
+   - Include: exact product name, official URL, pricing structure, free tier/trial limits, and company size/Stars_Badge.
    - Maintain objective, factual descriptions without marketing jargon.
 4. 🚀 **Submit a Pull Request** with a concise summary of your addition.
 
